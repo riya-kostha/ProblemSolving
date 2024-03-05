@@ -1,0 +1,32 @@
+
+
+
+
+https://www.geeksforgeeks.org/problems/maximum-index-1587115620/1
+nt maxIndexDiff(int arr[], int n) 
+    { 
+        // Your code here
+        int ans=0;
+         int maxval[n];
+        maxval[n-1]=arr[n-1];
+        for(int i=n-2;i>=0;i--){
+            maxval[i]=max(arr[i],maxval[i+1]);
+        }
+        
+      
+        int i=0,j=0;
+        while(i<n&&j<n){
+         
+            if(arr[i]<=maxval[j]){
+              ans=max(ans,j-i);
+             
+              j++;
+            }
+            else{
+            i++;
+            }
+ 
+        }
+        
+        return ans;
+    }
