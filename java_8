@@ -1,5 +1,5 @@
 Things to Revise
-
+optional ,Time
 metsapce for grabage collection in java 8 
 https://www.geeksforgeeks.org/metaspace-in-java-8-with-examples/   
 
@@ -11,4 +11,9 @@ Stream
   group By ,reduce,
   q1- find first non repeating charcter in string 
 
+default method in interface  also (diamond problem)
+
+static method in interface
+
+hashmap implemntation changes in java 8 
   
