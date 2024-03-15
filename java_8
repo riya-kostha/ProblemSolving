@@ -17,3 +17,10 @@ static method in interface
 
 hashmap implemntation changes in java 8 
   
+Things to remember in Collection
+{
+   Hashmap->hashTable->concurrentHashMap->syncronized hashMap
+  ArrayList->vector->ReadonWriteArrayList
+
+Note -> iterator.remove does not used concurrent collection
+}
