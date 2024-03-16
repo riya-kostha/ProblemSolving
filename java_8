@@ -24,3 +24,5 @@ Things to remember in Collection
 
 Note -> iterator.remove does not used concurrent collection
 }
+when we use runnable interface and types of thread
+Runnable with run and start
