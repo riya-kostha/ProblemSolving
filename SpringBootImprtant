@@ -1,3 +1,12 @@
 Type of Container ->1.ApplicactionContext 2.BeanFactor
-Patch and Put
-how does custom metodds workin in jPA REpo without any implemntation
+
+Patch and Put (Patch update only that part of data which is changing while put update whole object)
+
+
+how does custom metodds workin in jPA REpo without any implemntation spring internally (break mathod in to part and create a query accordingly)
+and if you want your own query user(@Query on over that function)
+
+Spring AOP  --->()
+
+
+
