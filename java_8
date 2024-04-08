@@ -12,7 +12,8 @@ Stream
   q1- find first non repeating charcter in string 
   q2-find longest string in list of string
 
-default method in interface  also (diamond problem)
+default method in interface  also (diamond problem)  (If two  interface have same default method java confirm that you provide your own defination
+by @override)
 
 static method in interface
 
