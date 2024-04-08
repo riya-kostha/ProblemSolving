@@ -8,8 +8,9 @@ Impementation of hashmap Hint for collision use linkedlist
 Concurrent (synchrinzed) collection with fail safe and fail fast iterator
 
 Stream 
-  group By ,reduce,
+  group By ,reduce, must read reduce
   q1- find first non repeating charcter in string 
+  q2-find longest string in list of string
 
 default method in interface  also (diamond problem)
 
