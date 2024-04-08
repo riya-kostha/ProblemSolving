@@ -17,7 +17,7 @@ by @override)
 
 static method in interface
 
-hashmap implemntation changes in java 8 
+hashmap implemntation changes in java 8 (No implemnetation required for static method) 
   
 Things to remember in Collection
 {
