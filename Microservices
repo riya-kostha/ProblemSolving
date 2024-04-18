@@ -1,0 +1,1 @@
+Service Discovery(Eureka servcer) ---> work as loadbalancer and provide URl nd Ip to connect the service instead of localhost or Port
