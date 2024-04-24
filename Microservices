@@ -8,3 +8,9 @@ Using fall  function
 
 API gateway--> abstrcation b/w microservice and web - frontent(route requeste to microservices
 
+
+Way to coummnictae two microservice
+sync--->  rest APi
+async----> kafka  (can make fault tourlerance replicas of broker)
+
+
