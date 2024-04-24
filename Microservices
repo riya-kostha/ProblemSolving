@@ -1,1 +1,10 @@
-Service Discovery(Eureka servcer) ---> work as loadbalancer and provide URl nd Ip to connect the service instead of localhost or Port
+Spring cloud
+
+Service Discovery(netflix-Eureka servcer) ---> work as loadbalancer and provide URl nd Ip to connect the service instead of localhost or Port
+
+Foult toulerance (Netflix-hytrix)--> if one service is calling another service and anyone fails it should give timeout and return response
+Using fall  function
+
+
+API gateway--> abstrcation b/w microservice and web - frontent(route requeste to microservices
+
